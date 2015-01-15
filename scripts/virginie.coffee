@@ -19,7 +19,8 @@
 quotes = [
   "ce que j'ecriver avant kje lecriver dans mon editeur de texte  enfin du moin je croyais lol",
   "une fois que jai t new requests je fork",
-  "Benoit: tu as pas le lien de ton github ? virginie: https://github.com/"
+  "Benoit: tu as pas le lien de ton github ? virginie: https://github.com/",
+  "jla j'espere que sa va fonctionnais que je puisse commencer les commencers les cours arf"
   ]
 
 module.exports = (robot) ->
