@@ -23,7 +23,8 @@ quotes = [
   "jla j'espere que sa va fonctionnais que je puisse commencer les commencers les cours arf",
   "limite que je pende l'ordi mais j'y suis arriver xd",
   "pour sa rien a fonctionnais",
-  "avec bundle exec rake  db : migrate sa a fonctionnais"
+  "avec bundle exec rake  db : migrate sa a fonctionnais",
+  "quand tu es sur ton compte git tube, avant de le clonner tu as fait cd acacias -harvest"
   ]
 
 module.exports = (robot) ->
